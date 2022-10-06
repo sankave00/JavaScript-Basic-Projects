@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+#head{
+    text-align:center;
+    color:red;
+}
+.chk{
+    text-align:center;
+}
+.grid {
+	width: 620px;
+	height: 620px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.square {
+	height: 200px;
+	width: 200px;
+    background-color:aqua;
+	border: solid black 1px;
+}
+
+.mole {
+	background-image: url("mole.jpg");
+	background-size: cover;
+}
